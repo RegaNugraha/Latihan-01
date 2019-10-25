@@ -19,4 +19,15 @@ YANG DIBUTUHKAN ANTARA LAIN ADALAH  :
   7. SETELAH ITU BUAT DIREKTORI BARU DENGAN MENGGUNAKAN PERINTAH "mkdir latihan-01" dan "cd latihan-01"
   ![3](https://user-images.githubusercontent.com/56884391/67552391-34a3fb00-f735-11e9-9603-3e5ca0031f79.png)
   8. LALU JALANKAN PERINTAH "git init" UNTUK MEMBUAT FILE KOSONG BERFORMAT git.
-  
+  ![4](https://user-images.githubusercontent.com/56884391/67552634-a4b28100-f735-11e9-9f78-d45ffc7ecac7.png)
+  9. LALU BUAT 1 FILE BERNAMA README.md DENGAN MEMASUKAN PERINTAH "echo "#Latihan-01" >> "README.md"" LALU KETIK PERINTAH "ls -1" UNTUK MELIHAT FILE
+  ![5](https://user-images.githubusercontent.com/56884391/67552649-abd98f00-f735-11e9-8360-d55d5cdc5518.png)
+  10. MENAMBAHKAN FILE README.md PADA REPOSITORY LOCAL DENGAN MENGGUNAKAN PERINTAH "git add" 
+  ![6](https://user-images.githubusercontent.com/56884391/67552666-b6942400-f735-11e9-9033-2c4b5852d8ec.png)
+  11. UNTUK MELIHAT STATUS FILE KETIK PERINTAH "git status"
+  ![7](https://user-images.githubusercontent.com/56884391/67552671-ba27ab00-f735-11e9-8944-205939e9b10e.png)
+  12. SETELAH ITU KETIK PERINTAH "git commit -m" "komentar saya" UNTUK MENYIMPAN PERUBAHAN YANG ADA KE DALAM FILE DATABASE REPOSITORY
+  ![8](https://user-images.githubusercontent.com/56884391/67552698-c90e5d80-f735-11e9-9fb6-376ae38b3321.png)
+  13. SELANJUTNYA ANDA MASUK LAGI KE WEBSITE GITHUB, LALU ANDA MASUK KE REPOSITORY YANG SEBELUMNYA ANDA BUAT. SETELAH ITU PADA BAGIAN QUICK SETUP TERDAPAT URL GITHUB KITA. URL INI NANTINYA AKAN DIGUNAKAN MENGGUNAKAN PERINTAH "git remote add origin [url]" DAN PERINTAH GITCLONE "git clone [url]"
+  ![9](https://user-images.githubusercontent.com/56884391/67552699-c90e5d80-f735-11e9-88be-a6dca08c8fa5.png)
+  14. LALU KETIKKAN PERINTAH "git remote add origin [url]" contoh "git remote add origin
