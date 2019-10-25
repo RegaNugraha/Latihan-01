@@ -32,8 +32,20 @@ YANG DIBUTUHKAN ANTARA LAIN ADALAH  :
   ![9](https://user-images.githubusercontent.com/56884391/67552699-c90e5d80-f735-11e9-88be-a6dca08c8fa5.png)
   14. LALU KETIKKAN PERINTAH "git remote add origin [url]" contoh "git remote add origin https://github.com/RegaNugraha/Latihan-01.git"
   ![10](https://user-images.githubusercontent.com/56884391/67552701-c90e5d80-f735-11e9-9aa1-73e8fb5ef523.png)
-  15. UNTUK MENGIRIM PERUNAHAN LOCAL REPOSITORY KE SERVER GUNAKAN PERINTAH "git push-u origin"
+  15. UNTUK MENGIRIM PERUBAHAN LOCAL REPOSITORY KE SERVER GUNAKAN PERINTAH "git push-u origin"
   ![11](https://user-images.githubusercontent.com/56884391/67552702-c9a6f400-f735-11e9-97cc-83685ed74f76.png)
-  16. DAN UNTUK MELIHAT HASIL NYA CEK DI GITHUB DAN LIHAT DI REPOSITORY NYA.
-  ![12](https://user-images.githubusercontent.com/56884391/67552703-c9a6f400-f735-11e9-9062-902922c1d043.png)
-  17. JIKA INGIN MELAKUKAN GIT CLONE REPOSITORY GUNAKAN PERINTAH "git clone [url]" Contoh "git clone 
+  16. TUNGGU BEBERAPA MENIT SAMPAI ADA KOLOM GITHUB LOGIN. LAU ANDA ISI KOLOM TERSEBUT, PERHATIKAN GAMBAR BERIKUT
+  
+  17. SETELAH ITU AKAN MUNCUL KOLOM OPEN SHH. LALU ANDA ISI KOLOM TERSEBUT. PERHATIKAN GAMBAR BERIKUT
+  ![13](https://user-images.githubusercontent.com/56884391/67552706-ca3f8a80-f735-11e9-8e77-6c4dd9ae0bfb.png)
+  18. SETELAH ITU APABILA ANDA INGIN MELAKUKAN CLONE REPOSITORY GUNAKAN PERINTAH "git clone [url]" CONTOH "git clone https://github.com/RegaNugraha/Latihan-01.git" PERHATIKAN GAMBAR BERIKUT
+  ![17](https://user-images.githubusercontent.com/56884391/67552722-cdd31180-f735-11e9-8697-f9650d5dc54f.png)
+  ![17](https://user-images.githubusercontent.com/56884391/67552724-ce6ba800-f735-11e9-882c-e89b09237ec3.png)
+  
+  ![2019-10-25 (6)](https://user-images.githubusercontent.com/56884391/67552725-ce6ba800-f735-11e9-9343-e2d5cd9b32ff.png)
+  ![2019-10-25 (11)](https://user-images.githubusercontent.com/56884391/67552727-cf043e80-f735-11e9-8742-328eafbb159f.png)
+  ![2019-10-25 (12)](https://user-images.githubusercontent.com/56884391/67552729-cf9cd500-f735-11e9-8230-a3129ccaf5b4.png)
+  ![13](https://user-images.githubusercontent.com/56884391/67552706-ca3f8a80-f735-11e9-8e77-6c4dd9ae0bfb.png)
+  ![14](https://user-images.githubusercontent.com/56884391/67552708-cad82100-f735-11e9-82d5-ea24c80cce43.png)
+  ![15](https://user-images.githubusercontent.com/56884391/67552712-cb70b780-f735-11e9-9cf6-f861bff4b6b7.png)
+  ![16](https://user-images.githubusercontent.com/56884391/67552720-cdd31180-f735-11e9-9745-120820af1399.png)
