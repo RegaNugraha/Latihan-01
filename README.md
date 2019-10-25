@@ -41,11 +41,3 @@ YANG DIBUTUHKAN ANTARA LAIN ADALAH  :
   18. SETELAH ITU APABILA ANDA INGIN MELAKUKAN CLONE REPOSITORY GUNAKAN PERINTAH "git clone [url]" CONTOH "git clone https://github.com/RegaNugraha/Latihan-01.git" PERHATIKAN GAMBAR BERIKUT
   ![17](https://user-images.githubusercontent.com/56884391/67552722-cdd31180-f735-11e9-8697-f9650d5dc54f.png)
   ![17](https://user-images.githubusercontent.com/56884391/67552724-ce6ba800-f735-11e9-882c-e89b09237ec3.png)
-  
-  ![2019-10-25 (6)](https://user-images.githubusercontent.com/56884391/67552725-ce6ba800-f735-11e9-9343-e2d5cd9b32ff.png)
-  ![2019-10-25 (11)](https://user-images.githubusercontent.com/56884391/67552727-cf043e80-f735-11e9-8742-328eafbb159f.png)
-  ![2019-10-25 (12)](https://user-images.githubusercontent.com/56884391/67552729-cf9cd500-f735-11e9-8230-a3129ccaf5b4.png)
-  ![13](https://user-images.githubusercontent.com/56884391/67552706-ca3f8a80-f735-11e9-8e77-6c4dd9ae0bfb.png)
-  ![14](https://user-images.githubusercontent.com/56884391/67552708-cad82100-f735-11e9-82d5-ea24c80cce43.png)
-  ![15](https://user-images.githubusercontent.com/56884391/67552712-cb70b780-f735-11e9-9cf6-f861bff4b6b7.png)
-  ![16](https://user-images.githubusercontent.com/56884391/67552720-cdd31180-f735-11e9-9745-120820af1399.png)
