@@ -30,4 +30,10 @@ YANG DIBUTUHKAN ANTARA LAIN ADALAH  :
   ![8](https://user-images.githubusercontent.com/56884391/67552698-c90e5d80-f735-11e9-9fb6-376ae38b3321.png)
   13. SELANJUTNYA ANDA MASUK LAGI KE WEBSITE GITHUB, LALU ANDA MASUK KE REPOSITORY YANG SEBELUMNYA ANDA BUAT. SETELAH ITU PADA BAGIAN QUICK SETUP TERDAPAT URL GITHUB KITA. URL INI NANTINYA AKAN DIGUNAKAN MENGGUNAKAN PERINTAH "git remote add origin [url]" DAN PERINTAH GITCLONE "git clone [url]"
   ![9](https://user-images.githubusercontent.com/56884391/67552699-c90e5d80-f735-11e9-88be-a6dca08c8fa5.png)
-  14. LALU KETIKKAN PERINTAH "git remote add origin [url]" contoh "git remote add origin
+  14. LALU KETIKKAN PERINTAH "git remote add origin [url]" contoh "git remote add origin https://github.com/RegaNugraha/Latihan-01.git"
+  ![10](https://user-images.githubusercontent.com/56884391/67552701-c90e5d80-f735-11e9-9aa1-73e8fb5ef523.png)
+  15. UNTUK MENGIRIM PERUNAHAN LOCAL REPOSITORY KE SERVER GUNAKAN PERINTAH "git push-u origin"
+  ![11](https://user-images.githubusercontent.com/56884391/67552702-c9a6f400-f735-11e9-97cc-83685ed74f76.png)
+  16. DAN UNTUK MELIHAT HASIL NYA CEK DI GITHUB DAN LIHAT DI REPOSITORY NYA.
+  ![12](https://user-images.githubusercontent.com/56884391/67552703-c9a6f400-f735-11e9-9062-902922c1d043.png)
+  17. JIKA INGIN MELAKUKAN GIT CLONE REPOSITORY GUNAKAN PERINTAH "git clone [url]" Contoh "git clone 
