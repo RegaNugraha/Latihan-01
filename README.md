@@ -39,5 +39,6 @@ YANG DIBUTUHKAN ANTARA LAIN ADALAH  :
   17. SETELAH ITU AKAN MUNCUL KOLOM OPEN SHH. LALU ANDA ISI KOLOM TERSEBUT. PERHATIKAN GAMBAR BERIKUT
   ![13](https://user-images.githubusercontent.com/56884391/67552706-ca3f8a80-f735-11e9-8e77-6c4dd9ae0bfb.png)
   18. SETELAH ITU APABILA ANDA INGIN MELAKUKAN CLONE REPOSITORY GUNAKAN PERINTAH "git clone [url]" CONTOH "git clone https://github.com/RegaNugraha/Latihan-01.git" PERHATIKAN GAMBAR BERIKUT
+  ![16](https://user-images.githubusercontent.com/56884391/67556894-2d351f80-f73e-11e9-819f-8738d7d51a53.png)
   ![17](https://user-images.githubusercontent.com/56884391/67552722-cdd31180-f735-11e9-8697-f9650d5dc54f.png)
   ![17](https://user-images.githubusercontent.com/56884391/67552724-ce6ba800-f735-11e9-882c-e89b09237ec3.png)
