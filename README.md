@@ -17,4 +17,6 @@ YANG DIBUTUHKAN ANTARA LAIN ADALAH  :
   6. LALU KONFIGURASI DENGAN MEMASUKAN PERINTAH "git config --global user.name "name.user"" DAN "git config --global user.email "user.email""
   ![2](https://user-images.githubusercontent.com/56884391/67552235-d7a84500-f734-11e9-8cf2-1fb56c3ddff5.png)
   7. SETELAH ITU BUAT DIREKTORI BARU DENGAN MENGGUNAKAN PERINTAH "mkdir latihan-01" dan "cd latihan-01"
+  ![3](https://user-images.githubusercontent.com/56884391/67552391-34a3fb00-f735-11e9-9603-3e5ca0031f79.png)
+  8. LALU JALANKAN PERINTAH "git init" UNTUK MEMBUAT FILE KOSONG BERFORMAT git.
   
